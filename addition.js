@@ -1,5 +1,6 @@
 let x = 5;
 function add(a, b){
+  //local scope - because declared inside of the block
   let x = 1;
   console.log(x);
   return a * b;
