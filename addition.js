@@ -6,6 +6,7 @@ function add(a, b){
   return a * b;
   
 }
+
 let add_numbers = add(6,7);
 
 console.log(add_numbers);
