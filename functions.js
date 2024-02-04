@@ -18,3 +18,17 @@ console.log(character2,character2);
 let text3 = "Exercise is good for health";
 let character4 = text3.charCodeAt(0);
 console.log(character4);
+
+//use of substring
+let text4 = "Exercise is good for health";
+let character5 = text3.substring(5, 10);
+let character6 = text3.substring(10);
+console.log("first substring is " + character5 + "second substring is " + character6);
+
+let x=123;
+x.toString();
+console.log(x);
+(123).toString;
+
+
+
